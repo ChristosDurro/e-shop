@@ -34,13 +34,10 @@ const Login = ({ setAccount, setLogged }) => {
 		const backendAPI = import.meta.env.VITE_BACKEND_URL;
 		
 		const localhost = "localhost"
-		const externalBackendURL = "192.168.178.69";
 		axios
-			.post(`http://${externalBackendURL}:8000/users/login`, userDetails)
+			.post(`http://${localhost}:8000/users/login`, userDetails)
 			.then((res) => {
-				console.log(res.data);
 				if (res.status == 200) {
-					console.log(res.data);
 					setAccount(res.data);
 					setLogged(true);
 					localStorage.setItem("user", JSON.stringify(res.data));
@@ -73,7 +70,6 @@ const Login = ({ setAccount, setLogged }) => {
 			});
 	};
 
-	console.log(message);
 	return (
 		<div className="login-page">
 			{message != null && (
