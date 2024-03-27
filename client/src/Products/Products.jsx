@@ -77,8 +77,6 @@ const Products = ({ products, loaded, account, setAccount, logged }) => {
         };
 	}, [updateProductList, pathname]);
 
-	console.log(account);
-
 	const handleCartIconClick = (account, product) => {
 		let errorType;
 
@@ -112,10 +110,9 @@ const Products = ({ products, loaded, account, setAccount, logged }) => {
 
 		const backendAPI = import.meta.env.VITE_BACKEND_URL;
 		const localhost = "localhost";
-		const externalBackendURL = "192.168.178.69";
 
 		axios
-			.post(`http://${externalBackendURL}:8000/user/add/cart`, {
+			.post(`http://${localhost}:8000/user/add/cart`, {
 				account,
 				product,
 			})
@@ -142,7 +139,6 @@ const Products = ({ products, loaded, account, setAccount, logged }) => {
 			});
 	};
 
-	// console.log(filteredProducts)
 	return (
 		<div id="prods-container" className="products-container">
 			{showToTop && <ScrollToTop />}
