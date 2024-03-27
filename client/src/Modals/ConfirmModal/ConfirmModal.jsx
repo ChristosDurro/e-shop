@@ -26,9 +26,8 @@ const ConfirmModal = ({
 		setShowConfirmModal(false);
 		console.log(account);
 		const localhost = "localhost";
-		const externalBackendURL = "192.168.178.69";
 		axios
-			.delete(`http://${externalBackendURL}:8000/users/delete`, {
+			.delete(`http://${localhost}:8000/users/delete`, {
 				data: account,
 			})
 			.then((res) => {
