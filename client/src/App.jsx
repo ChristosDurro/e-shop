@@ -30,10 +30,9 @@ function App() {
 
 	useEffect(() => {
 		const localhost = "localhost"
-		const externalBackendURL = "192.168.178.69";
 		const getProducts = () => {
 			axios
-				.get(`http://${externalBackendURL}:8000/parts`)
+				.get(`http://${localhost}:8000/parts`)
 				.then((res) => {
 					setProducts(res.data);
 					setLoaded(true);
