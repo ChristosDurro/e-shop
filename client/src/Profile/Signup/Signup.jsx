@@ -35,11 +35,9 @@ const Signup = ({ account, setAccount }) => {
 		e.preventDefault();
 		
 		const localhost = "localhost"
-		const externalBackendURL = "192.168.178.69";
 		axios
-			.post(`http://${externalBackendURL}:8000/users/create`, userDetails)
+			.post(`http://${localhost}:8000/users/create`, userDetails)
 			.then((res) => {
-				console.log(res.data);
 				setUserDetails({
 					fName: "",
 					lName: "",
