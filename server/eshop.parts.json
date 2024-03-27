@@ -1,0 +1,1133 @@
+[
+	{
+		"category": "gpu",
+		"subcategory": "AMD",
+		"image": "https://d.scdn.gr/images/sku_main_images/035929/35929042/20220512101215_sapphire_radeon_rx_6750_xt_12gb_gddr6_nitro_karta_grafikon_pci_e_x16_4_0_me_hdmi_kai_3_displayport_11318_01_20g.jpeg",
+		"title": "Sapphire Radeon RX 6750 XT 12GB GDDR6 Nitro+",
+		"price": 591.5,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Sapphire",
+			"Graphics RAM size": "12GB",
+			"Graphics RAM type": "GDDR6",
+			"GPU clock speed": "2321 MHz",
+			"Dimensions": "2.79 x 24.64 x 16.51 cm"
+		}
+	},
+	{
+		"category": "gpu",
+		"subcategory": "Nvidia",
+		"image": "https://b.scdn.gr/images/sku_main_images/029592/29592230/xlarge_20210621140447_gigabyte_geforce_rtx_3060_12gb_eagle_oc_rev_2_0_gv_n3060eagle_oc_12gd_rev2.jpeg",
+		"title": "Gigabyte GeForce RTX 3060 12GB GDDR6 Eagle OC (rev. 2.0)",
+		"price": 387,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Gigabyte",
+			"Graphics RAM size": "12GB",
+			"Graphics RAM type": "GDDR6",
+			"GPU clock speed": "1807 MHz",
+			"Dimensions": "24.2 x 12.4 x 4.1 cm"
+		}
+	},
+	{
+		"category": "gpu",
+		"subcategory": "AMD",
+		"image": "https://a.scdn.gr/images/sku_main_images/031749/31749296/20211018121334_sapphire_radeon_rx_6600_xt_8gb_pulse_11310_01_20g.jpeg",
+		"title": "Sapphire Radeon RX 6600 8GB GDDR6 Pulse",
+		"price": 273.87,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Sapphire",
+			"Graphics RAM size": "8GB",
+			"Graphics RAM type": "GDDR6",
+			"GPU clock speed": "1295 MHz",
+			"Dimensions": "19.3 x 12 x 4 cm"
+		}
+	},
+	{
+		"category": "gpu",
+		"subcategory": "Nvidia",
+		"image": "https://c.scdn.gr/images/sku_main_images/018346/18346299/20190425125857_palit_geforce_gtx_1650_4gb_stormx_ne51650006g1_1170f.jpeg",
+		"title": "Palit GeForce GTX 1650 4GB GDDR5 StormX",
+		"price": 165.61,
+		"inStock": false,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Palit",
+			"Graphics RAM size": "4GB",
+			"Graphics RAM type": "GDDR6",
+			"GPU clock speed": "1410 MHz",
+			"Dimensions": "16.8 x 12.2 x 4 cm"
+		}
+	},
+	{
+		"category": "gpu",
+		"subcategory": "AMD",
+		"image": "https://a.scdn.gr/images/sku_main_images/034059/34059793/xlarge_20220217112211_asus_radeon_rx_6500_xt_4gb_dual_oc_karta_grafikon_se_pci_express_x16_4_0_me_1_hdmi_kai_1_displayport_90yv0ha1_m0na00.jpeg",
+		"title": "Asus Radeon RX 6500 XT 4GB GDDR6 Dual OC",
+		"price": 173.98,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "ASUS",
+			"Graphics RAM size": "4GB",
+			"Graphics RAM type": "GDDR6",
+			"GPU clock speed": "1725 MHz",
+			"Dimensions": "20.1 x 12.8 x 4 cm"
+		}
+	},
+	{
+		"category": "gpu",
+		"subcategory": "Nvidia",
+		"image": "https://b.scdn.gr/images/sku_main_images/020852/20852456/20191106134613_msi_geforce_gtx_1660_super_6gb_ventus_oc_v375_279r.jpeg",
+		"title": "MSI GeForce GTX 1660 Super 6GB GDDR6 Ventus XS OC",
+		"price": 258.4,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "MSI",
+			"Graphics RAM size": "6GB",
+			"Graphics RAM type": "GDDR6",
+			"GPU clock speed": "1815 MHz",
+			"Dimensions": "20.4 x 4.2 x 12.8 cm"
+		}
+	},
+	{
+		"category": "gpu",
+		"subcategory": "Nvidia",
+		"image": "https://b.scdn.gr/images/sku_main_images/029747/29747207/20210629101342_msi_geforce_rtx_3080_10gb_gaming_z_trio_lhr.jpeg",
+		"title": "MSI GeForce RTX 3080 10GB GDDR6X Gaming Z Trio LHR",
+		"price": 826.29,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "MSI",
+			"Graphics RAM size": "10GB",
+			"Graphics RAM type": "GDDR6",
+			"GPU clock speed": "1830 MHz",
+			"Dimensions": "32.3 x 14 x 5.6 cm"
+		}
+	},
+	{
+		"category": "gpu",
+		"subcategory": "Nvidia",
+		"image": "https://a.scdn.gr/images/sku_main_images/030476/30476895/20210816120758_gigabyte_geforce_rtx_3060_ti_8gb_eagle_oc_lhr_rev_2_0_gv_n306teagle_oc_8gd_2_0.jpeg",
+		"title": "Gigabyte GeForce RTX 3060 Ti 8GB GDDR6 Eagle OC (rev. 2.0)",
+		"price": 488.06,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Gigabyte",
+			"Graphics RAM size": "8GB",
+			"Graphics RAM type": "GDDR6",
+			"GPU clock speed": "1665 MHz",
+			"Dimensions": "24.2 x 12.4 x 4.1 cm"
+		}
+	},
+	{
+		"category": "gpu",
+		"subcategory": "Nvidia",
+		"image": "https://a.scdn.gr/images/sku_main_images/032238/32238786/20220303113114_gigabyte_geforce_rtx_3070_ti_8gb_gddr6x_oc_lhr_rev_1_0_karta_grafikon_pci_e_x16_4_0_me_2_hdmi_kai_2_displayport_gv_n307tgaming_oc_8gd.jpeg",
+		"title": "Gigabyte GeForce RTX 3070 Ti 8GB GDDR6X OC LHR (Rev 1.0)",
+		"price": 737.8,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Gigabyte",
+			"Graphics RAM size": "8GB",
+			"Graphics RAM type": "GDDR6",
+			"GPU clock speed": "1830 MHz",
+			"Dimensions": "32 x 12.9 x 5.5 cm"
+		}
+	},
+	{
+		"category": "gpu",
+		"subcategory": "Nvidia",
+		"image": "https://d.scdn.gr/images/sku_main_images/033504/33504298/20220119103757_gigabyte_geforce_rtx_3050_gaming_oc_8gb.jpeg",
+		"title": "Gigabyte GeForce RTX 3050 8GB GDDR6 Gaming OC",
+		"price": 341.19,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Gigabyte",
+			"Graphics RAM size": "8GB",
+			"Graphics RAM type": "GDDR6",
+			"GPU clock speed": "1822 MHz",
+			"Dimensions": "28.19 x 11.71 x 4.09 cm"
+		}
+	},
+	{
+		"category": "hard drive",
+		"subcategory": "hdd",
+		"image": "https://b.scdn.gr/images/sku_main_images/002195/2195774/20211110155755_western_digital_blue_1tb_hdd_skliros_diskos_3_5_sata_iii_7200rpm_me_64mb_cache_gia_desktop_wd10ezex.jpeg",
+		"title": "Western Digital Blue 1TB HDD 3.5\" SATA III 7200rpm",
+		"price": 33.58,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Western Digital",
+			"Hard drive type": "Hard Drive Disk",
+			"Hard drive size": "1000GB",
+			"RPM": "7200"
+		}
+	},
+	{
+		"category": "hard drive",
+		"subcategory": "ssd",
+		"image": "https://c.scdn.gr/images/sku_main_images/011825/11825339/20211102165604_kingston_a400_ssd_240gb_2_5_sa400s37_240g.jpeg",
+		"title": "Kingston A400 SSD 240GB 2.5'' SATA III",
+		"price": 16.37,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Kingston",
+			"Hard drive type": "Solid State Drive",
+			"Hard drive size": "240GB",
+			"Read Speed": "500 MB/s",
+			"Write Speed": "350 MB/s"
+		}
+	},
+	{
+		"category": "hard drive",
+		"subcategory": "ssd",
+		"image": "https://a.scdn.gr/images/sku_main_images/025837/25837599/20210125162328_samsung_980_pro_1_0tb.jpeg",
+		"title": "Samsung 980 Pro SSD 1TB M.2 NVMe PCI Express 4.0",
+		"price": 104.52,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Samsung",
+			"Hard drive type": "Solid State Drive",
+			"Hard drive size": "1000GB",
+			"Read Speed": "7000 MB/s",
+			"Write Speed": "5000 MB/s"
+		}
+	},
+	{
+		"category": "hard drive",
+		"subcategory": "ssd",
+		"image": "https://a.scdn.gr/images/sku_main_images/017274/17274661/20190206090920_samsung_970_evo_plus_500gb.jpeg",
+		"title": "Samsung 970 Evo Plus SSD 500GB M.2 NVMe PCI Express 3.0",
+		"price": 47.15,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Samsung",
+			"Hard drive type": "Solid State Drive",
+			"Hard drive size": "500GB",
+			"Read Speed": "3500 MB/s",
+			"Write Speed": "3300 MB/s"
+		}
+	},
+	{
+		"category": "hard drive",
+		"subcategory": "hdd",
+		"image": "https://a.scdn.gr/images/sku_main_images/012003/12003799/20200310121557_western_digital_purple_1tb_wd10purz.jpeg",
+		"title": "Western Digital Purple 1TB HDD 3.5\" SATA III 5400rpm",
+		"price": 40.47,
+		"inStock": false,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Western Digital",
+			"Hard drive type": "Hard Drive Disk",
+			"Hard drive size": "1000GB",
+			"RPM": "5400"
+		}
+	},
+	{
+		"category": "hard drive",
+		"subcategory": "ssd",
+		"image": "https://d.scdn.gr/images/sku_main_images/028554/28554163/20210426112910_gigabyte_aorus_gen4_7000s_ssd_1tb_m_2_nvme_gp_ag70s1tb.jpeg",
+		"title": "Gigabyte Aorus Gen4 7000s SSD 1TB M.2 NVMe PCI Express 4.0",
+		"price": 110.24,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Gigabyte",
+			"Hard drive type": "Solid State Drive",
+			"Hard drive size": "1000GB",
+			"Read Speed": "7000 MB/s",
+			"Write Speed": "6850 MB/s"
+		}
+	},
+	{
+		"category": "hard drive",
+		"subcategory": "hdd",
+		"image": "https://c.scdn.gr/images/sku_main_images/015405/15405705/20200310121558_seagate_barracuda_2tb_st2000dm008.jpeg",
+		"title": "Seagate Barracuda 2TB HDD 3.5\" SATA III 7200rpm",
+		"price": 43.99,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Seagate Bare Drives",
+			"Hard drive type": "Hard Drive Disk",
+			"Hard drive size": "2000GB",
+			"RPM": "7200"
+		}
+	},
+	{
+		"category": "hard drive",
+		"subcategory": "ssd",
+		"image": "https://c.scdn.gr/images/sku_main_images/026796/26796273/20210224132554_samsung_870_evo_ssd_500gb_2_5_mz_77e500b_eu.jpeg",
+		"title": "Samsung 870 Evo SSD 500GB 2.5'' SATA III",
+		"price": 46.78,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Samsung",
+			"Hard drive type": "Solid State Drive",
+			"Hard drive size": "500GB",
+			"Read Speed": "560 MB/s",
+			"Write Speed": "530 MB/s"
+		}
+	},
+	{
+		"category": "hard drive",
+		"subcategory": "hdd",
+		"image": "https://d.scdn.gr/images/sku_main_images/028083/28083252/20211025165713_western_digital_blue_2tb_hdd_skliros_diskos_3_5_sata_iii_7200rpm_me_256mb_cache_gia_desktop_wd20ezbx.jpeg",
+		"title": "Western Digital Blue 2TB HDD 3.5\" SATA III 7200rpm",
+		"price": 44.73,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Western Digital",
+			"Hard drive type": "Hard Drive Disk",
+			"Hard drive size": "2000GB",
+			"RPM": "7200"
+		}
+	},
+	{
+		"category": "hard drive",
+		"subcategory": "ssd",
+		"image": "https://a.scdn.gr/images/sku_main_images/015863/15863490/20211102165921_crucial_bx500_ssd_240gb_2_5_ct240bx500ssd1.jpeg",
+		"title": "Crucial BX500 SSD 240GB 2.5'' SATA III",
+		"price": 18.32,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Samsung",
+			"Hard drive type": "Solid State Drive",
+			"Hard drive size": "240GB",
+			"Read Speed": "540 MB/s",
+			"Write Speed": "500 MB/s"
+		}
+	},
+	{
+		"category": "ram",
+		"subcategory": "ddr4",
+		"image": "https://d.scdn.gr/images/sku_main_images/011105/11105234/20201013122452_g_skill_tridentz_rgb_16gb_ddr4_3200mhz_f4_3200c16d_16gtzr.jpeg",
+		"title": "G.Skill Trident Z RGB 16GB DDR4 RAM 2 Modules (2x8GB) 3200Mhz",
+		"price": 73,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "G.SKILL",
+			"RAM type": "DDR4",
+			"RAM size": "16GB",
+			"Memory Speed": "3200 MHz"
+		}
+	},
+	{
+		"category": "ram",
+		"subcategory": "ddr4",
+		"image": "https://a.scdn.gr/images/sku_main_images/020070/20070756/20211102145340_g_skill_trident_z_neo_32gb_ddr4_ram_me_2_modules_2x16gb_kai_sychnotita_3600mhz_gia_desktop_f4_3600c16d_32gtznc.jpeg",
+		"title": "G.Skill Trident Z Neo 32GB DDR4 RAM 2 Modules (2x16GB)  3600Mhz",
+		"price": 144.32,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "G.SKILL",
+			"RAM type": "DDR4",
+			"RAM size": "32GB",
+			"Memory Speed": "3600 MHz"
+		}
+	},
+	{
+		"category": "ram",
+		"subcategory": "ddr5",
+		"image": "https://d.scdn.gr/images/sku_main_images/038503/38503320/20221004164629_g_skill_trident_z5_neo_rgb_32gb_ddr5_ram_me_2_modules_2x16gb_kai_sychnotita_6000mhz_gia_desktop_f5_6000j3038f16gx2_tz5nr.jpeg",
+		"title": "G.Skill Trident Z5 Neo RGB 32GB DDR5 RAM 2 Modules (2x16GB) 6000Mhz",
+		"price": 245.58,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "G.SKILL",
+			"RAM type": "DDR5",
+			"RAM size": "32GB",
+			"Memory Speed": "6000 MHz"
+		}
+	},
+	{
+		"category": "ram",
+		"subcategory": "ddr4",
+		"image": "https://b.scdn.gr/images/sku_main_images/019926/19926927/20190902142938_patriot_viper_steel_16gb_ddr4_3200mhz_pvs416g320c6k.jpeg",
+		"title": "Patriot Viper Steel 16GB DDR4 RAM 2 Modules (2x8GB) 3200Mhz",
+		"price": 49.36,
+		"inStock": false,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Patriot Memory",
+			"RAM type": "DDR4",
+			"RAM size": "16GB",
+			"Memory Speed": "3200 MHz"
+		}
+	},
+	{
+		"category": "ram",
+		"subcategory": "ddr4",
+		"image": "https://d.scdn.gr/images/sku_main_images/015274/15274146/20201013134043_corsair_vengeance_rgb_pro_16gb_ddr4_3200mhz_cmw16gx4m2c3200c16.jpeg",
+		"title": "Corsair Vengeance RGB Pro 16GB DDR4 RAM 2 Modules (2x8GB) 3200Mhz",
+		"price": 63.86,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Corsair",
+			"RAM type": "DDR4",
+			"RAM size": "16GB",
+			"Memory Speed": "3200 MHz"
+		}
+	},
+	{
+		"category": "ram",
+		"subcategory": "ddr4",
+		"image": "https://a.scdn.gr/images/sku_main_images/021377/21377044/20211102145848_corsair_vengeance_rgb_pro_32gb_ddr4_ram_me_2_modules_2x16gb_kai_sychnotita_3600mhz_gia_desktop_cmw32gx4m2d3600c18.jpeg",
+		"title": "Corsair Vengeance RGB Pro 32GB DDR4 RAM 2 Modules (2x16GB) 3600Mhz",
+		"price": 99.08,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Corsair",
+			"RAM type": "DDR4",
+			"RAM size": "32GB",
+			"Memory Speed": "3600 MHz"
+		}
+	},
+	{
+		"category": "ram",
+		"subcategory": "ddr4",
+		"image": "https://b.scdn.gr/images/sku_main_images/007730/7730092/20211102144001_g_skill_ripjaws_v_16gb_ddr4_ram_me_2_modules_2x8gb_kai_sychnotita_3200mhz_gia_desktop_f4_3200c16d_16gvkb.jpeg",
+		"title": "G.Skill Ripjaws V 16GB DDR4 RAM 2 Modules (2x8GB) 3200Mhz",
+		"price": 33.94,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "G.Skill",
+			"RAM type": "DDR4",
+			"RAM size": "16GB",
+			"Memory Speed": "3200 MHz"
+		}
+	},
+	{
+		"category": "ram",
+		"subcategory": "ddr4",
+		"image": "https://b.scdn.gr/images/sku_main_images/020497/20497840/20191011125428_g_skill_aegis_16gb_ddr4_3200mhz_f4_3200c16d_16gis.jpeg",
+		"title": "G.Skill Aegis 16GB DDR4 RAM 2 Modules (2x8GB) 3200Mhz",
+		"price": 40.57,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "G.Skill",
+			"RAM type": "DDR4",
+			"RAM size": "16GB",
+			"Memory Speed": "3200 MHz"
+		}
+	},
+	{
+		"category": "ram",
+		"subcategory": "ddr5",
+		"image": "https://c.scdn.gr/images/sku_main_images/035233/35233043/20220406085805_kingston_fury_beast_64gb_ddr5_ram_me_2_modules_2x32gb_kai_sychnotita_5600mhz_gia_desktop_kf556c40bbk2_64.jpeg",
+		"title": "Kingston Fury Beast 64GB DDR5 RAM 2 Modules (2x32GB) 5600Mhz",
+		"price": 251.34,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Kingston",
+			"RAM type": "DDR5",
+			"RAM size": "64GB",
+			"Memory Speed": "5600 MHz"
+		}
+	},
+	{
+		"category": "cpu",
+		"subcategory": "intel",
+		"image": "https://c.scdn.gr/images/sku_main_images/023292/23292336/20200916151319_intel_core_i5_10400f_box.jpeg",
+		"title": "Intel Core i5-10400F 2.9GHz 6-Core",
+		"price": 97.59,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Intel",
+			"Processor family": "Core i5",
+			"Processor base speed": "2.9GHz",
+			"Processor max speed": "4.3GHz",
+			"Processor socket": "LGA 1200"
+		}
+	},
+	{
+		"category": "cpu",
+		"subcategory": "intel",
+		"image": "https://b.scdn.gr/images/sku_main_images/032106/32106143/20220210135544_intel_core_i7_12700k_2_7ghz_epexergastis_12_pyrinon_gia_socket_1700_se_kouti.jpeg",
+		"title": "Intel Core i7-12700K 2.7GHz 12-Core",
+		"price": 366,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Intel",
+			"Processor family": "Core i7",
+			"Processor base speed": "2.7GHz",
+			"Processor max speed": "5.0GHz",
+			"Processor socket": "LGA 1700"
+		}
+	},
+	{
+		"category": "cpu",
+		"subcategory": "intel",
+		"image": "https://d.scdn.gr/images/sku_main_images/032159/32159735/20220210135542_intel_core_i5_12600k_2_8ghz_epexergastis_10_pyrinon_gia_socket_1700_se_kouti.jpeg",
+		"title": "Intel Core i5-12600K 2.8GHz 10-Core",
+		"price": 274.6,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Intel",
+			"Processor family": "Core i5",
+			"Processor base speed": "2.8GHz",
+			"Processor max speed": "4.9GHz",
+			"Processor socket": "LGA 1700"
+		}
+	},
+	{
+		"category": "cpu",
+		"subcategory": "intel",
+		"image": "https://b.scdn.gr/images/sku_main_images/027738/27738633/20210318161709_intel_core_i5_11400f_box.jpeg",
+		"title": "Intel Core i5-11400F 2.6GHz 6-Core",
+		"price": 118.1,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Intel",
+			"Processor family": "Core i5",
+			"Processor base speed": "2.6GHz",
+			"Processor max speed": "4.4GHz",
+			"Processor socket": "LGA 1200"
+		}
+	},
+	{
+		"category": "cpu",
+		"subcategory": "intel",
+		"image": "https://c.scdn.gr/images/sku_main_images/038431/38431899/20220929174100_intel_core_i5_13600k_2_6ghz_epexergastis_14_pyrinon_gia_socket_1700_se_kouti.jpeg",
+		"title": "Intel Core i5-13600K 2.6GHz 14-Core",
+		"price": 350,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Intel",
+			"Processor family": "Core i5",
+			"Processor base speed": "2.6GHz",
+			"Processor max speed": "5.1GHz",
+			"Processor socket": "LGA 1700"
+		}
+	},
+	{
+		"category": "cpu",
+		"subcategory": "amd",
+		"image": "https://a.scdn.gr/images/sku_main_images/025578/25578869/20220603161518_amd_ryzen_9_5950x_3_4ghz_epexergastis_16_pyrinon_gia_socket_am4_se_kouti.jpeg",
+		"title": "AMD Ryzen 9 5950X 3.4GHz 16-Core",
+		"price": 489.08,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "AMD",
+			"Processor family": "Ryzen 9",
+			"Processor base speed": "3.4GHz",
+			"Processor max speed": "4.9GHz",
+			"Processor socket": "AM4"
+		}
+	},
+	{
+		"category": "cpu",
+		"subcategory": "amd",
+		"image": "https://a.scdn.gr/images/sku_main_images/025578/25578831/20220210135542_amd_ryzen_7_5800x_3_8ghz_epexergastis_8_pyrinon_gia_socket_am4_se_kouti.jpeg",
+		"title": "AMD Ryzen 7 5800X 3.8GHz 8-Core",
+		"price": 221,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "AMD",
+			"Processor family": "Ryzen 7",
+			"Processor base speed": "3.8GHz",
+			"Processor max speed": "4.7GHz",
+			"Processor socket": "AM4"
+		}
+	},
+	{
+		"category": "cpu",
+		"subcategory": "amd",
+		"image": "https://d.scdn.gr/images/sku_main_images/025636/25636603/20220210135543_amd_ryzen_9_5900x_3_7ghz_epexergastis_12_pyrinon_gia_socket_am4_se_kouti.jpeg",
+		"title": "AMD Ryzen 9 5900X 3.7GHz 12-Core",
+		"price": 339.8,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "AMD",
+			"Processor family": "Ryzen 9",
+			"Processor base speed": "3.7GHz",
+			"Processor max speed": "4.8GHz",
+			"Processor socket": "AM4"
+		}
+	},
+	{
+		"category": "cpu",
+		"subcategory": "amd",
+		"image": "https://b.scdn.gr/images/sku_main_images/025549/25549852/20220210135539_amd_ryzen_5_5600x_3_7ghz_epexergastis_6_pyrinon_gia_socket_am4_se_kouti_me_psyktra.jpeg",
+		"title": "AMD Ryzen 5 5600X 3.7GHz 6-Core",
+		"price": 160.79,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "AMD",
+			"Processor family": "Ryzen 5",
+			"Processor base speed": "3.7GHz",
+			"Processor max speed": "4.6GHz",
+			"Processor socket": "AM4"
+		}
+	},
+	{
+		"category": "cpu",
+		"subcategory": "amd",
+		"image": "https://b.scdn.gr/images/sku_main_images/035208/35208363/20220603161518_amd_ryzen_7_5700x_3_4ghz_epexergastis_8_pyrinon_gia_socket_am4_se_kouti.jpeg",
+		"title": "AMD Ryzen 7 5700X 3.4GHz 8-Core",
+		"price": 194.77,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "AMD",
+			"Processor family": "Ryzen 7",
+			"Processor base speed": "3.4GHz",
+			"Processor max speed": "4.6GHz",
+			"Processor socket": "AM4"
+		}
+	},
+	{
+		"category": "motherboard",
+		"subcategory": "amd",
+		"image": "https://d.scdn.gr/images/sku_main_images/024215/24215370/20200730120506_msi_mpg_b550_gaming_plus.jpeg",
+		"title": "MSI MPG B550 Gaming Plus Motherboard ATX",
+		"price": 159.16,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "MSI",
+			"Size": "ATX",
+			"RAM type supported": "DDR4",
+			"Socket type supported": "AM4",
+			"Maximum memory supported": "128GB",
+			"DIMM slots": "4",
+			"M.2 slots": "2"
+		}
+	},
+	{
+		"category": "motherboard",
+		"subcategory": "intel",
+		"image": "https://c.scdn.gr/images/sku_main_images/033465/33465157/20220117124328_asrock_b660m_pro_rs_motherboard_micro_atx_me_intel_1700_socket.jpeg",
+		"title": "Asrock B660M Pro RS Motherboard Micro ATX",
+		"price": 113.9,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Asrock",
+			"Size": "Micro ATX",
+			"RAM type supported": "DDR4",
+			"Socket type supported": "LGA 1700",
+			"Maximum memory supported": "128GB",
+			"DIMM slots": "4",
+			"M.2 slots": "2"
+		}
+	},
+	{
+		"category": "motherboard",
+		"subcategory": "amd",
+		"image": "https://a.scdn.gr/images/sku_main_images/023726/23726715/20220119171823_asus_rog_strix_b550_f_gaming_motherboard_atx_me_amd_am4_socket.jpeg",
+		"title": "Asus ROG Strix B550-F Gaming Motherboard ATX",
+		"price": 164.22,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Asus",
+			"Size": "ATX",
+			"RAM type supported": "DDR4",
+			"Socket type supported": "AM4",
+			"Maximum memory supported": "128GB",
+			"DIMM slots": "4",
+			"M.2 slots": "2"
+		}
+	},
+	{
+		"category": "motherboard",
+		"subcategory": "intel",
+		"image": "https://c.scdn.gr/images/sku_main_images/032225/32225032/20211109111919_msi_pro_z690_a_ddr4_motherboard_atx_me_intel_1700_socket.jpeg",
+		"title": "MSI Pro Z690-A DDR4 Motherboard ATX",
+		"price": 233.7,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "MSI",
+			"Size": "ATX",
+			"RAM type supported": "DDR4",
+			"Socket type supported": "LGA 1700",
+			"Maximum memory supported": "128GB",
+			"DIMM slots": "4",
+			"M.2 slots": "2"
+		}
+	},
+	{
+		"category": "motherboard",
+		"subcategory": "amd",
+		"image": "https://c.scdn.gr/images/sku_main_images/019380/19380868/20190711113804_asrock_x570_phantom_gaming_4.jpeg",
+		"title": "Asrock X570 Phantom Gaming 4 Motherboard ATX",
+		"price": 166.44,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Asrock",
+			"Size": "ATX",
+			"RAM type supported": "DDR4",
+			"Socket type supported": "AM4",
+			"Maximum memory supported": "128GB",
+			"DIMM slots": "4",
+			"M.2 slots": "2"
+		}
+	},
+	{
+		"category": "motherboard",
+		"subcategory": "intel",
+		"image": "https://c.scdn.gr/images/sku_main_images/023303/23303826/20220119171822_msi_mpg_z490_gaming_plus_motherboard_atx_me_intel_1200_socket.jpeg",
+		"title": "MSI MPG Z490 Gaming Plus Motherboard ATX",
+		"price": 159.79,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "MSI",
+			"Size": "ATX",
+			"RAM type supported": "DDR4",
+			"Socket type supported": "LGA 1200",
+			"Maximum memory supported": "128GB",
+			"DIMM slots": "4",
+			"M.2 slots": "2"
+		}
+	},
+	{
+		"category": "motherboard",
+		"subcategory": "amd",
+		"image": "https://d.scdn.gr/images/sku_main_images/025855/25855777/20201126122011_gigabyte_b550_aorus_elite_v2_rev_1_0.jpeg",
+		"title": "Gigabyte B550 Aorus Elite V2 (rev. 1.0) Motherboard ATX",
+		"price": 138.3,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Gigabyte",
+			"Size": "ATX",
+			"RAM type supported": "DDR4",
+			"Socket type supported": "AM4",
+			"Maximum memory supported": "128GB",
+			"DIMM slots": "4",
+			"M.2 slots": "2"
+		}
+	},
+	{
+		"category": "motherboard",
+		"subcategory": "amd",
+		"image": "https://c.scdn.gr/images/sku_main_images/025774/25774610/20220119172008_asus_rog_strix_b550_a_gaming_motherboard_atx_me_amd_am4_socket.jpeg",
+		"title": "Asus ROG Strix B550-A Gaming Motherboard ATX",
+		"price": 149.25,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Asus",
+			"Size": "ATX",
+			"RAM type supported": "DDR4",
+			"Socket type supported": "AM4",
+			"Maximum memory supported": "128GB",
+			"DIMM slots": "4",
+			"M.2 slots": "2"
+		}
+	},
+	{
+		"category": "motherboard",
+		"subcategory": "intel",
+		"image": "https://d.scdn.gr/images/sku_main_images/033402/33402384/20220112130029_asus_prime_h610m_a_d4_motherboard_micro_atx_me_intel_1700_socket.jpeg",
+		"title": "Asus Prime H610M-A D4 Motherboard Micro ATX",
+		"price": 105.83,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Asus",
+			"Size": "Micro ATX",
+			"RAM type supported": "DDR4",
+			"Socket type supported": "LGA 1700",
+			"Maximum memory supported": "128GB",
+			"DIMM slots": "2",
+			"M.2 slots": "2"
+		}
+	},
+	{
+		"category": "motherboard",
+		"subcategory": "amd",
+		"image": "https://a.scdn.gr/images/sku_main_images/018000/18000923/20190403100049_asrock_b450_steel_legend.jpeg",
+		"title": "Asrock B450 Steel Legend Motherboard ATX",
+		"price": 104.9,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Asrock",
+			"Size": "ATX",
+			"RAM type supported": "DDR4",
+			"Socket type supported": "AM4",
+			"Maximum memory supported": "128GB",
+			"DIMM slots": "4",
+			"M.2 slots": "2"
+		}
+	},
+	{
+		"category": "case",
+		"subcategory": "midi",
+		"image": "https://c.scdn.gr/images/sku_main_images/024029/24029712/20200715140352_cougar_mx410_mesh_g_rgb.jpeg",
+		"title": "Cougar MX410 Mesh-G RGB Gaming Midi Tower",
+		"price": 80.57,
+		"inStock": false,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Cougar",
+			"Case size": "Midi Tower",
+			"RAM size supported": ["ATX", "Mini ITX", "Micro ATX"],
+			"Height": "455mm",
+			"Width": "210mm",
+			"Depth": "380mm",
+			"GPU max length": "300mm",
+			"CPU cooler max height": "165mm"
+		}
+	},
+	{
+		"category": "case",
+		"subcategory": "midi",
+		"image": "https://d.scdn.gr/images/sku_main_images/025014/25014008/20200930162041_corsair_4000d_airflow_black.jpeg",
+		"title": "Corsair 4000D Airflow Black",
+		"price": 99,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Corsair",
+			"Case size": "Midi Tower",
+			"RAM size supported": ["ATX", "Mini ITX", "Micro ATX"],
+			"Height": "466mm",
+			"Width": "230mm",
+			"Depth": "453mm",
+			"GPU max length": "360mm",
+			"CPU cooler max height": "170mm"
+		}
+	},
+	{
+		"category": "case",
+		"subcategory": "midi",
+		"image": "https://a.scdn.gr/images/sku_main_images/025056/25056599/20201002151604_corsair_icue_4000x_rgb_black.jpeg",
+		"title": "Corsair iCUE 4000X RGB Gaming Midi Tower",
+		"price": 137.6,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Corsair",
+			"Case size": "Midi Tower",
+			"RAM size supported": ["ATX", "Mini ITX", "Micro ATX"],
+			"Height": "466mm",
+			"Width": "230mm",
+			"Depth": "453mm",
+			"GPU max length": "360mm",
+			"CPU cooler max height": "170mm"
+		}
+	},
+	{
+		"category": "case",
+		"subcategory": "midi",
+		"image": "https://a.scdn.gr/images/sku_main_images/020659/20659103/20191023105614_fractal_design_meshify_c_dark_tempered_glass.jpeg",
+		"title": "Fractal Design Meshify C Dark Tempered Glass Midi Tower",
+		"price": 113.4,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Fractal Design",
+			"Case size": "Midi Tower",
+			"RAM size supported": ["ATX", "Micro ATX"],
+			"Height": "453mm",
+			"Width": "217mm",
+			"Depth": "409mm",
+			"GPU max length": "315mm",
+			"CPU cooler max height": "172mm"
+		}
+	},
+	{
+		"category": "case",
+		"subcategory": "midi",
+		"image": "https://b.scdn.gr/images/sku_main_images/023019/23019357/20200504154654_be_quiet_pure_base_500dx_black.jpeg",
+		"title": "Be Quiet Pure Base 500DX Gaming Midi Tower",
+		"price": 118,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Be Quiet",
+			"Case size": "Midi Tower",
+			"RAM size supported": ["ATX", "Mini ITX", "Micro ATX"],
+			"Height": "463mm",
+			"Width": "232mm",
+			"Depth": "450mm",
+			"GPU max length": "369mm",
+			"CPU cooler max height": "190mm"
+		}
+	},
+	{
+		"category": "case",
+		"subcategory": "full",
+		"image": "https://c.scdn.gr/images/sku_main_images/026336/26336601/20211015092030_armaggeddon_nimitz_tr8000_gaming_full_tower_kouti_ypologisti_me_plaino_parathyro_kai_rgb_fotismo_mayro.jpeg",
+		"title": "Armaggeddon Nimitz TR8000 Gaming Full Tower",
+		"price": 109.9,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Armaggeddon",
+			"Case size": "Full Tower",
+			"RAM size supported": ["E-ATX", "ATX", "Micro ATX", "Mini ITX"],
+			"Height": "400mm",
+			"Width": "300mm",
+			"Depth": "500mm",
+			"GPU max length": "400mm",
+			"CPU cooler max height": "190mm"
+		}
+	},
+	{
+		"category": "case",
+		"subcategory": "midi",
+		"image": "https://d.scdn.gr/images/sku_main_images/016033/16033144/20181005120011_lian_li_pc_o11_dynamic_white.jpeg",
+		"title": "Lian Li PC-O11 Dynamic Gaming Midi Tower",
+		"price": 173.77,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Lian Li",
+			"Case size": "Midi Tower",
+			"RAM size supported": ["E-ATX", "ATX", "Micro ATX"],
+			"Height": "446mm",
+			"Width": "272mm",
+			"Depth": "445mm",
+			"GPU max length": "420mm",
+			"CPU cooler max height": "155mm"
+		}
+	},
+	{
+		"category": "case",
+		"subcategory": "midi",
+		"image": "https://a.scdn.gr/images/sku_main_images/017837/17837009/20190322095229_corsair_crystal_series_680x_rgb.jpeg",
+		"title": "Corsair Crystal Series 680X RGB Gaming Midi Tower",
+		"price": 263.69,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Corsair",
+			"Case size": "Midi Tower",
+			"RAM size supported": ["E-ATX", "ATX", "Micro ATX", "Mini ITX"],
+			"Height": "505mm",
+			"Width": "344mm",
+			"Depth": "423mm",
+			"GPU max length": "330mm",
+			"CPU cooler max height": "180mm"
+		}
+	},
+	{
+		"category": "case",
+		"subcategory": "midi",
+		"image": "https://b.scdn.gr/images/sku_main_images/018904/18904181/20190605132448_deepcool_matrexx_70_3f.jpeg",
+		"title": "Deepcool Matrexx 70 3F Gaming Midi Tower",
+		"price": 112.8,
+		"inStock": false,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Deepcool",
+			"Case size": "Midi Tower",
+			"RAM size supported": ["E-ATX", "ATX", "Micro ATX", "Mini ITX"],
+			"Height": "492mm",
+			"Width": "228mm",
+			"Depth": "475mm",
+			"GPU max length": "380mm",
+			"CPU cooler max height": "170mm"
+		}
+	},
+	{
+		"category": "case",
+		"subcategory": "midi",
+		"image": "https://b.scdn.gr/images/sku_main_images/037217/37217391/20220719115536_lian_li_lancool_iii_rgb_gaming_midi_tower_kouti_ypologisti_me_plaino_parathyro_leyko.jpeg",
+		"title": "Lian Li Lancool III RGB Gaming Midi Tower",
+		"price": 179.4,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Lian Li",
+			"Case size": "Midi Tower",
+			"RAM size supported": ["E-ATX", "ATX", "Micro ATX", "Mini ITX"],
+			"Height": "523mm",
+			"Width": "238mm",
+			"Depth": "526mm",
+			"GPU max length": "420mm",
+			"CPU cooler max height": "185mm"
+		}
+	},
+	{
+		"category": "psu",
+		"subcategory": "wired",
+		"image": "https://b.scdn.gr/images/sku_main_images/016368/16368678/20181105110416_be_quiet_pure_power_11_600w.jpeg",
+		"title": "Be Quiet Pure Power 11 600W Full Wired 80 Plus Gold",
+		"price": 85.19,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Be Quiet",
+			"Wattage": "600W",
+			"Modularity": "Full Wired",
+			"Certification": "80 Plus Gold"
+		}
+	},
+	{
+		"category": "psu",
+		"subcategory": "semi",
+		"image": "https://d.scdn.gr/images/sku_main_images/019523/19523719/20190724134558_be_quiet_system_power_9_500w_cm.jpeg",
+		"title": "Be Quiet System Power 9 CM 500W Semi Modular 80 Plus Bronze",
+		"price": 60.44,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Be Quiet",
+			"Wattage": "500W",
+			"Modularity": "Semi Modular",
+			"Certification": "80 Plus Bronze"
+		}
+	},
+	{
+		"category": "psu",
+		"subcategory": "full modular",
+		"image": "https://a.scdn.gr/images/sku_main_images/028498/28498507/20210422115435_be_quiet_pure_power_11_fm_550w_full_modular_80_plus_gold.jpeg",
+		"title": "Be Quiet Pure Power 11 FM 550W Full Modular 80 Plus Gold",
+		"price": 78.9,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Be Quiet",
+			"Wattage": "550W",
+			"Modularity": "Full Modular",
+			"Certification": "80 Plus Gold"
+		}
+	},
+	{
+		"category": "psu",
+		"subcategory": "semi",
+		"image": "https://b.scdn.gr/images/sku_main_images/019523/19523639/20190724133857_be_quiet_system_power_9.jpeg",
+		"title": "Be Quiet System Power 9 CM 700W Semi Modular 80 Plus Bronze",
+		"price": 84.3,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Be Quiet",
+			"Wattage": "700W",
+			"Modularity": "Semi Modular",
+			"Certification": "80 Plus Bronze"
+		}
+	},
+	{
+		"category": "psu",
+		"subcategory": "wired",
+		"image": "https://b.scdn.gr/images/sku_main_images/021704/21704095/20200327171418_corsair_cv550.jpeg",
+		"title": "Corsair CV Series CV550 550W Full Wired 80 Plus Bronze",
+		"price": 61.42,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Corsair",
+			"Wattage": "550W",
+			"Modularity": "Full Wired",
+			"Certification": "80 Plus Bronze"
+		}
+	},
+	{
+		"category": "psu",
+		"subcategory": "full modular",
+		"image": "https://a.scdn.gr/images/sku_main_images/028498/28498189/20210422115300_be_quiet_pure_power_11_fm_750w_full_modular_80_plus_gold.jpeg",
+		"title": "Be Quiet Pure Power 11 FM 750W Full Modular 80 Plus Gold",
+		"price": 109,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Be Quiet",
+			"Wattage": "750W",
+			"Modularity": "Full Modular",
+			"Certification": "80 Plus Gold"
+		}
+	},
+	{
+		"category": "psu",
+		"subcategory": "wired",
+		"image": "https://d.scdn.gr/images/sku_main_images/007888/7888456/20211122163725_thermaltake_tr2_s_700w_full_wired_80_plus.jpeg",
+		"title": "Thermaltake TR2 S 700W Full Wired 80 Plus Standard",
+		"price": 58.95,
+		"inStock": false,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Thermaltake",
+			"Wattage": "700W",
+			"Modularity": "Full Wired",
+			"Certification": "80 Plus Standard"
+		}
+	},
+	{
+		"category": "psu",
+		"subcategory": "full modular",
+		"image": "https://c.scdn.gr/images/sku_main_images/028883/28883751/20211122163410_corsair_rmx_series_rm750x_2021_750w_full_modular_80_plus_gold.jpeg",
+		"title": "Corsair RMx Series RM750x (2021) 750W Full Modular 80 Plus Gold",
+		"price": 138.35,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Corsair",
+			"Wattage": "750W",
+			"Modularity": "Full Modular",
+			"Certification": "80 Plus Gold"
+		}
+	},
+	{
+		"category": "psu",
+		"subcategory": "wired",
+		"image": "https://b.scdn.gr/images/sku_main_images/030209/30209519/20210902170132_corsair_cv_cv650_650w_full_wired_80_plus_bronze.jpeg",
+		"title": "Corsair CV CV650 650W Full Wired 80 Plus Bronze",
+		"price": 69.9,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Corsair",
+			"Wattage": "650W",
+			"Modularity": "Full Wired",
+			"Certification": "80 Plus Bronze"
+		}
+	},
+	{
+		"category": "psu",
+		"subcategory": "full modular",
+		"image": "https://d.scdn.gr/images/sku_main_images/028769/28769537/20210510120425_corsair_rm1000x_1000w_full_modular_80_plus_gold.jpeg",
+		"title": "Corsair RM1000x 1000W Full Modular 80 Plus Gold",
+		"price": 199.9,
+		"inStock": true,
+		"quantity": 1,
+		"details": {
+			"Manufacturer": "Corsair",
+			"Wattage": "1000W",
+			"Modularity": "Full Modular",
+			"Certification": "80 Plus Gold"
+		}
+	}
+]

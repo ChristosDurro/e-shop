@@ -1,0 +1,260 @@
+
+
+.cart-container {
+	width: 90%;
+	margin: auto;
+
+}
+
+.path {
+	font-size: 16px;
+	margin: 30px 0;
+	font-weight: 600;
+}
+
+.sub-path {
+	text-decoration: none;
+	color: black;
+}
+
+.sub-path:hover {
+	text-decoration: underline;
+}
+
+.cart-headers {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 75%;
+	margin: 0px auto 20px;
+	text-decoration: underline;
+	font-weight: 600;
+}
+
+
+.cart-view {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	gap: 10px;
+	background-color: #e0e0e0;
+	padding: 10px;
+}
+
+.cart-product-card {
+	width: 100%;
+	position: relative;
+	border: 1px solid #e0e0e0;
+	box-shadow: 0px 0px 1px black;
+	display: flex;
+	align-items: center;
+	padding: 30px 40px 30px 30px;
+	background-color: white;
+	text-align: center;
+}
+
+.cart-product-card-img-link {
+	position: relative;
+}
+
+.cart-product-card-img-link img {
+	width: 100%;
+	height: 50px;
+	object-fit: contain;
+}
+
+.cart-product-detail-link {
+	font-size: 15px;
+	text-decoration: none;
+	color: black;
+	width: 200px;
+}
+
+.cart-product-detail-link:hover {
+	text-decoration: underline;
+}
+
+.cart-details {
+	display: flex;
+	align-items: center;
+	width: calc(100% / 4);
+}
+
+.cart-product-price {
+	width: calc(100% / 4);
+
+}
+
+.cart-quantity {
+	width: calc(100% / 4);
+	height: 25px;
+}
+
+.cart-quantity input {
+	width: 40px;
+	height: 100%;
+	text-align: center;
+	border: 1px solid;
+	outline: none;
+}
+
+.cart-quantity button {
+	width: 25px;
+	height: 100%;
+	background-color: rgb(247, 247, 247);
+	border: 1px solid ;
+}
+
+.cart-quantity button:hover {
+	cursor: pointer;
+	background-color: rgb(214, 214, 214);
+}
+
+.cart-delete {
+	position: absolute;
+	right: 30px;
+	padding: 10px 12px;
+}
+
+.cart-delete:hover {
+	cursor: pointer;
+	background-color: rgb(189, 189, 189);
+	border-radius: 100%;
+}
+
+.subtotal {
+	width: calc(100% / 4);
+}
+
+.cart-empty, .cart-not-logged {
+	font-size: 18px;
+	font-weight: 600;
+	margin: auto;
+	padding: 50px 0px;
+}
+
+.total-price {
+	padding: 30px 30px 0px;
+	font-size: 26px;
+	text-align: right;
+}
+
+.cart-page-actions {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 50px;
+}
+
+.products-btn-link, .checkout-btn, .disabled-checkout {
+	padding: 20px 15px;
+	font-size: 16px;
+	cursor: pointer;
+	text-decoration: none;
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.products-btn-link {
+	color: black;
+	background-color: rgb(212, 212, 212);
+	border: 1px solid black;
+	font-weight: 500;
+}
+
+.products-btn-link:hover {
+	background-color: rgb(185, 185, 185);
+}
+
+.checkout-btn {
+	background-color: rgb(24, 119, 226);
+	border: 1px solid rgb(2, 52, 109);
+	color: #fefefe;
+	font-weight: 500;
+}
+
+.checkout-btn:hover {
+	background-color: rgb(29, 93, 167);
+}
+
+.disabled-checkout:hover {
+	cursor: not-allowed;
+}
+
+@media screen and (max-width: 768px) {
+	.cart-headers {
+		width: 65%;
+	}
+	.sub-total-header {
+		display: none;
+	}
+	.cart-details {
+		width: calc(100% / 3);
+	}
+	.cart-product-price {
+		width: calc(100% / 3);
+	}
+	.cart-quantity {
+		width: calc(100% / 3);
+	}
+	.reduce-quantity, .add-quantity {
+		display: none;
+	}
+	.subtotal {
+		display: none;
+	}
+	.cart-product-detail-link {
+		display: none;
+	}
+	.cart-delete {
+		right: 10px;
+	}
+	.cart-page-actions {
+		flex-direction: column;
+		gap: 20px;
+	}
+	.cart-page-actions > button, a {
+		border-radius: 16px;
+		width: 250px;
+	}
+}
+
+@media screen and (max-width: 590px) {
+	.cart-headers {
+		width: 65%;
+		margin-left: 45px;
+	}
+	.sub-total-header {
+		display: none;
+	}
+	.cart-details {
+		width: calc(90% / 3);
+	}
+	.cart-product-price {
+		width: calc(90% / 3);
+	}
+	.cart-quantity {
+		width: calc(90% / 3);
+	}
+	.reduce-quantity, .add-quantity {
+		display: none;
+	}
+	.subtotal {
+		display: none;
+	}
+	.cart-product-detail-link {
+		display: none;
+	}
+	.cart-delete {
+		right: 10px;
+	}
+	.cart-page-actions {
+		flex-direction: column;
+		gap: 20px;
+	}
+	.cart-page-actions > button, a {
+		border-radius: 16px;
+		width: 250px;
+	}
+}

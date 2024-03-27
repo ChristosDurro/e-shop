@@ -1,0 +1,100 @@
+
+
+.modal-open {
+	overflow: hidden;
+}
+
+.modal-container {
+	background-color: #fefefe;
+	position: fixed;
+	margin: auto;
+	top: 50px;
+	left: 50%;
+	transform: translateX(-50%);
+	padding: 20px;
+	border: 1px solid black;
+	border-radius: 10px;
+	z-index: 99;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 20px;
+	overflow: hidden;
+}
+
+.show-modal {
+	animation: show-modal .5s ease-out;
+}
+
+.shake-modal {
+	top: 50px;
+	left: 50%;
+	transform: translateX(-50%);
+	animation: shake .5s ease-in-out;
+}
+
+.type-color {
+	width: 7px;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0px;
+}
+
+.modal-message {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 15px;
+}
+
+.modal-header {
+	font-size: 32px;
+	font-weight: 500;
+	margin-bottom: 10px;
+}
+
+.modal-failure {
+	color: red;
+}
+
+.modal-success {
+	color: green;
+}
+
+.message {
+	font-size: 17px;
+	font-weight: 500;
+}
+
+.modal-close {
+	font-size: 14px;
+	font-weight: 600;
+	cursor: pointer;
+	color: rgb(31, 31, 31);
+	padding: 2px 7px;
+	border-radius: 4px;
+}
+
+.modal-close:hover {
+	background-color: rgb(194, 194, 194);
+}
+
+
+@keyframes show-modal {
+	0% {
+		top: -50px;
+	}
+	100% {
+		top: 50px;
+	}
+}
+
+@keyframes shake {
+	0% { transform: translateX(-50%); }
+	10%, 90% { transform: translateX(-51%); }
+	20%, 80% { transform: translateX(-49%); }
+	30%, 50%, 70% { transform: translateX(-51%); }
+	40%, 60% { transform: translateX(-49%); }
+	100% { transform: translateX(-50%); }
+}

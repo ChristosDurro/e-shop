@@ -1,0 +1,15 @@
+
+.to-top {
+	position: fixed;
+	bottom: 10%;
+	right: 5%;
+	z-index: 123;
+	color: rgb(160, 160, 160);
+}
+
+@media (hover: hover) {
+	.to-top:hover {
+		color: rgb(122, 122, 122);
+		cursor: pointer;
+	}
+}

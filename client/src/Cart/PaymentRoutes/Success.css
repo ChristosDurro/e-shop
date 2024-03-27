@@ -1,0 +1,80 @@
+
+
+.success-container {
+	text-align: center;
+	position: relative;
+	width: 35%;
+	height: 400px;
+	margin: auto;
+	border: 1px solid rgb(59, 59, 59);
+	box-shadow: 0px 0px 5px;
+	padding: 50px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.success-msg {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 20px;
+}
+
+.payment-success-text {
+	color: green;
+	font-weight: 600;
+	font-size: 28px;
+}
+
+.payment-details {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	font-size: 22px;
+	gap: 15px;
+}
+
+.pay-total, .pay-date {
+	display: flex;
+	gap: 15px;
+	text-align: left;
+}
+
+
+.pay-text {
+	font-weight: 500;
+}
+
+.to-shop-btn {
+	padding: 20px 15px;
+	width: 200px;
+	font-size: 18px;
+	background-color: rgb(24, 119, 226);
+	border: 1px solid rgb(2, 52, 109);
+	font-weight: 500;
+	cursor: pointer;
+	margin: 0 auto;
+	text-decoration: none;
+	color: #fefefe;
+}
+
+.to-shop-btn:hover {
+	background-color: rgb(29, 93, 167);
+}
+
+@media screen and (max-width: 1024px) {
+	.success-container {
+		width: 50%;
+		padding: 30px;
+		margin: 50px auto;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.success-container {
+		width: 90%;
+		padding: 30px;
+		margin: 50px auto;
+	}
+}

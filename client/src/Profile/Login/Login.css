@@ -1,0 +1,100 @@
+
+.login-container {
+	background-color: #ffffff;
+	border: 1px solid #eeeeee;
+	border-radius: 16px;
+	width: 350px;
+	margin: auto;
+	padding: 16px 30px;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	font-size: 22px;
+	box-shadow: 0px 0px 1px;
+	position: relative;
+}
+
+.login-header {
+	font-size: 32px;
+	text-align: start;
+	margin: 0px 0px 24px;
+	background-color: inherit;
+}
+
+.email-container, .password-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	width: 100%;
+	margin: auto;
+}
+
+.email-container {
+	margin-bottom: 16px;
+}
+
+.password-container {
+	margin-bottom: 32px;
+}
+
+.email-container label, .password-container label {
+	font-size: 16px;
+	background-color: white;
+	color: #353535;
+	font-weight: 500;
+	margin-bottom: 4px;
+}
+
+.login-container input {
+	border: 1px solid black;
+	border-radius: 4px;
+	outline: none;
+	padding: 8px;
+	font-size: 16px;
+	width: 100%;
+}
+
+.login-btn {
+	border-radius: 4px;
+	outline: none;
+	border: 1px solid rgb(2, 52, 109);
+	background-color: rgb(27, 133, 253);
+	color: #fefefe;
+	padding: 10px 5px;
+	width: 100px;
+	font-weight: bold;
+	font-size: 16px;
+	margin: 0 auto 30px;
+	width: 100%;
+	display: flex;
+	gap: 15px;
+	justify-content: center;
+	align-items: center;
+}
+
+.login-btn:hover {
+	cursor: pointer;
+	background-color: rgb(32, 109, 196);
+}
+
+.login-icon {
+	background-color: inherit;
+}
+
+.signup-link {
+	text-decoration: none;
+	color: black;
+	font-size: 14px;
+	font-weight: bold;
+	margin: auto;
+}
+
+.signup-link:hover {
+	text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+	.login-page {
+		padding: 10% 0;
+	}
+}
