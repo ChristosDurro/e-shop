@@ -21,7 +21,6 @@ const Filters = ({
 }) => {
 	const handleCategoryChange = (e) => {
 		const selection = e.target.value;
-		console.log(selection);
 		setSelectedCategory(selection);
 		setSelectedSubCategory("Select");
 		const subs = Array.from(
@@ -34,7 +33,6 @@ const Filters = ({
 					.map((product) => product.subcategory)
 			)
 		);
-		console.log(subs);
 		setSubCategories(subs);
 	};
 
@@ -61,7 +59,6 @@ const Filters = ({
 		if (!isNumeric(minPrice) || !isNumeric(maxPrice) || (minPrice && maxPrice && (minPrice > maxPrice || maxPrice < minPrice))) return;
 		setApply(!apply);
 	};
-	// console.log(minPrice)
 
 	return (
 		<div className="filter-container">
