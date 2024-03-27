@@ -20,10 +20,9 @@ const Product = ({ account, setAccount }) => {
 
 	useEffect(() => {
 		const localhost = "localhost"
-		const externalBackendURL = "192.168.178.69";
 		const getProduct = (id) => {
 			axios
-				.get(`http://${externalBackendURL}:8000/parts/${id}`)
+				.get(`http://${localhost}:8000/parts/${id}`)
 				.then((res) => {
 					setProduct(res.data);
 					setDetails(Object.entries(res.data.details));
@@ -97,10 +96,9 @@ const Product = ({ account, setAccount }) => {
 		};
 
 		const localhost = "localhost"
-		const externalBackendURL = "192.168.178.69";
 
 		axios
-			.post(`http://${externalBackendURL}:8000/user/add/cart`, {
+			.post(`http://${localhost}:8000/user/add/cart`, {
 				account,
 				product: newProduct,
 			})
